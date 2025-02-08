@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Rolada szpinakowa",
+    "description": "Rolada szpinakowa to świetnie wyglądająca na stole przystawka na zimno. Moim zdaniem jest niezwykle smaczna i zawsze znika z talerza w szybkim tempie.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Sałatka z paluszkami krabowymi",
+    "description": "To ciekawa alternatywa dla tradycyjnych sałatek. Do jej zrobienia użyłam makaronu pszennego w kształcie ryżu (orzo) , papryki, ogórków, sera cheddar oraz kukurydzy. Jestem pewna, że Wam posmakuje!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Chrupiące roladki z tortilli",
+    "description": "Chrupiące roladki z tortilli to ekspresowa przekąska imprezowa. Idealna na Sylwestra, domówki, urodziny czy imieniny. Raz, dwa i gotowe!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Bułeczki gyros",
+    "description": "Tym razem przekąska, która może być podana na ciepło, ale również na zimno, czyli puszyste bułeczki gyros. Są wypełnione aromatycznym farszem z kurczaka, pieczarek, kukurydzy, sosem do pizzy i ciągnącej mozzarelli, ale możesz łatwo modyfikować te składniki według swoich upodobań.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Roladki z szynki",
+    "description": "To jednak z tych przekąsek, które robi się naprawdę błyskawicznie, a wygląda i smakuje genialnie. Te roladki z szynki wypełnione są twarożkiem z rzodkiewką i szczypiorkiem.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Paluchy pizzowe",
+    "description": "Paluchy pizzowe to pyszna i niezwykle sycąca przekąska imprezowa. Robi prawdziwą furorę na domówkach. Ciasto drożdżowe robię podobnie jak na pizzę, później wystarczy nałożyć farsz, pokroić na podłużne kawałki i zwinąć. Bułka z masłem!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Cebulowe paluchy z boczkiem",
+    "description": "Jeżeli szukasz oryginalnego przepisu, który zaskoczy Twoich gości, to te cebulowe paluchy z boczkiem będą idealnym wyborem! Jestem przekonana, że to będzie prawdziwy hit każdej Twojej imprezy! Są nie tylko efektowne, ale i bardzo smaczne, a do tego proste w przygotowaniu!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Sałatka gyros",
+    "description": "Tej sałatki chyba nie trzeba nikomu przedstawiać. Sałatka gyros to jedna z najpopularniejszych sałatek imprezowych. Ta warstwowa sałatka z podsmażanym kurczakiem i warzywami zawsze wygląda efektownie na sylwestrowym stole.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Imprezowe łódeczki z warzywami",
+    "description": "Imprezowe łódeczki z warzywami, to kolejna sycąca przekąska drożdżowa, która najlepiej smakuje podawana na ciepło. U mnie wypełniona farszem wegetariańskim, ale równie dobrze możesz użyć swoich ulubionych składników. Ich wykonanie jest podobne do pizzerinek, ale zaprezentowane w nieco innej, ciekawszej formie.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Imprezowa pizza",
+    "description": "Imprezowa pizza to fantastyczna przekąska imprezowa. Najbardziej mi smakuje na ciepło, zaraz po wyjęciu z piekarnika. Jednak na zimno jest równie smaczna.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Rogaliki pizzowee",
+    "description": "Teraz propozycja dla miłośników pizzy, czyli drożdżowe rogaliki pizzowe! Są bardzo proste w przygotowaniu, ponieważ do ich zrobienia możesz wykorzystać gotowe ciasto na pizzę, które jest dostępne w wielu sklepach. Jeżeli jednak masz więcej czasu, to możesz przygotować ciasto samodzielnie wcześniej.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Imprezowe rollsy z brokułami",
+    "description": "Kolejna propozycja z wykorzystaniem gotowego ciasta na pizzę to Imprezowe rollsy z brokułami. Środek wypełniłam dodatkowo karmelizowaną czerwoną cebulą oraz boczkiem i całość wyszła mega smaczna! Zwłaszcza z ulubionym sosem. Możesz je podać zarówno na ciepło, jak i na zimno.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Burgery z halloumi i karmelizowaną cebulą",
+    "description": "Burgery z grillowanym halloumi i karmelizowaną czerwoną cebulą to coś naprawdę przepysznego! Od razu uprzedzę, że kluczowa jest tu domowa bułka do burgerów, którą bez problemu upieczecie (możecie ją posypać sezamem, czarnuszką czy słonecznikiem). Czasami dodatkowo  lekko smaruję moje burgery masłem orzechowym, a czerwoną cebulę zamieniam na buraka.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "earl grey",
+    "description": "Earl Grey to czarna herbata aromatyzowana olejkiem z bergamotki, znana ze swojego charakterystycznego smaku.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Pizzerinki",
+    "description": "Spodziewasz się gości, a nie masz pomysłu jaką przekąskę imprezową przygotować? W takim razie polecam Wam te pyszne pizzerinki z czarnymi oliwkami, salami, grillowanymi pieczarkami oraz mozzarellą. Pamiętaj, że dodatki są naprawdę dowolne.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Chrupiące pieczarki w serowym cieście",
+    "description": "Fajna i prosta przekąska na ciepło w 15 min? W takim razie wybierz chrupiące pieczarki w serowym cieście. Najlepiej ponabijać je wykałaczkami i w ten sposób umieścić na talerzu.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Odrywany chlebek czosnkowy",
+    "description": "Kto nie lubi zapachu i smaku świeżo upieczonego pieczywka? Uwierzcie mi, że na imprezie ten chlebek z masłem czosnkowym i serem mozarella smakuje sto razy bardziej! Jest to świetny pomysł jako dodatek do sałatek sylwestrowych.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Chicken burger",
+    "description": "Chicken burger z chrupiącym kurczakiem w płatkach kukurydzianych, grillowanym halloumi i warzywami to strzał w dziesiątkę! Idealna na obiad, kolację czy domówkę! Twoi goście będą zachwyceni!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Kuleczki ziemniaczane",
+    "description": "Zostały Ci ziemniaki z obiadu? W takim razie koniecznie przygotuj kuleczki ziemniaczane z serem w środku.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Nadziewane bułeczki rozmarynowe z pieczonym Camembertem",
+    "description": "Na domówkę jak znalazł! Ciepłe bułeczki drożdżowe z dodatkiem posiekanego rozmarynu wypełniłam na szybko posiekanym w kostkę serem, szynką wieprzową i ketchupem. Jeśli chcecie to możecie dodać także np. oliwki, suszone pomidory, salami, grillowanego kurczaka czy co tam lubicie najbardziej!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Sałatka z zupek chińskich, kurczaka i papryki",
+    "description": "Sałatka z zupek chińskich to również znana i lubiana propozycja imprezowej sałatki do przygotowania w 15 min. Opcjonalnie można zamienić makaron z zupek chińskich na zwykły makaron np. muszelki.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Imprezowe mini cheeseburgerki",
+    "description": "Domowe mini cheeseburgerki to ciekawa propozycja na imprezowy, sylwestrowy stół. Smakują i prezentują się naprawdę świetnie. Mięciutka, domowa bułka pszenna w połączeniu z mięsnym farszem i ciągnącym się serem to coś pysznego!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Kalafior w panierce",
+    "description": "Kalafior w panierce to świetna przekąska imprezowa. Może stanowić także smaczny dodatek do obiadu.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Sałatka z jajkiem i żółtym serem",
+    "description": "Ta szybka sałatka z jajkiem będzie idealna na różne imprezy jak np. domówki, imieniny, urodziny. Sprawdzi się także świetnie na Wielkanoc czy Boże Narodzenie. Jest naprawdę uniwersalna i bardzo sycąca.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Tortilla zawijana z szynką i serem",
+    "description": "Tortilla zawijana to genialna przekąska imprezowa, której największą zaletą jest jej czas przygotowania. Wystarczą dwie minuty i roladki z tortilli są już gotowe.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Domowe hamburgery",
+    "description": "Jeśli lubisz domowe fast-foody to mam dla Ciebie przepis doskonały! Poniżej znajduje się przepis na pyszne hamburgery, które smakują sto razy lepiej niż te ze znanych sieciówek. Jak dla mnie petarda!",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Kanapeczki imprezowe",
+    "description": "W tym wpisie znajdziesz 3 pyszne i szybkie propozycje – kanapeczki z łososiem wędzonym, salsą z mango oraz tapenadą. Mi wszystkie bardzo smakują chociaż znacznie się różnią od siebie pod względem smaku i wyglądu.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Imprezowa zawijana pizza",
+    "description": "Kolejny pomysł na przekąskę na ciepło, ale tym razem ze smakiem pizzy! Ten drożdżowy zawijaniec z cała pewnością zachwyci Twoich gości. Możesz do środka dodać również inne składniki takie jak szynkę czy pieczarki. Najlepiej smakuje z sosem czosnkowym.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Guacamole",
+    "description": "Guacamole to meksykański hit, uwielbiany przez miliony na całym świecie. Do zrobienia w 5 min., tylko musisz kupić dobre awokado – najlepiej odmianę Hass. Idealnie pasuje jako dodatek do nachosów. Co ciekawe jest to najpopularniejsza przekąska w USA podczas mistrzostw Super Bowl.",
+    "image": "R.drawable.snack"
+  },
+  {
+    "name": "Sałatka meksykańska",
+    "description": "Jeżeli jesteśmy już w meksykańskich klimatach to polecam przy okazji zrobić króla imprezy, czyli sałatkę meksykańską! Jest naprawdę pyszna, a dzięki wbitym dookoła nachosom prezentuje się naprawdę okazale",
+    "image": "R.drawable.snack"
+  }
+]
+
